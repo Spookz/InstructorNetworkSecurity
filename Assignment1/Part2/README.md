@@ -6,7 +6,7 @@ part2.sh
 ### DEPENDENCIES
 Part 1 Completion
 
-### REQUIREMENTS
+### REQUIREMENTS (60 pts)
 - Submission SHALL be a back command script named part2.sh
 
 - Script SHALL copy letter subdirectories and contents from Part1 directory to Part2 directory 
