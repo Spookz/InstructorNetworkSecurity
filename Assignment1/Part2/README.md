@@ -1,5 +1,8 @@
 # PART 2 - Come Together (Beatles anyone?)
 
+### DELIVERABLES
+part2.sh
+
 ### DEPENDENCIES
 Part 1 Completion
 

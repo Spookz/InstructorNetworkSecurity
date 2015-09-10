@@ -1,5 +1,8 @@
 # PART 1 - SORT WORDS.TXT
 
+### DELIVERABLES
+part1.sh
+
 ### REQUIREMENTS
 - Submission SHALL be a bash command script named part1.sh.
 
