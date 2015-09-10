@@ -1,10 +1,9 @@
-# PART 1
-Sort Words
+# PART 1 - Sort Words
 
-## REQUIREMENT
+### REQUIREMENT
 Submission of a bash script that will open words.txt and for every first letter in each word(not case sensitive) concatenate the corresponding word within the sortedwords.txt file in the subdirectory that begins with that letter.
 
-## EXAMPLE
+### EXAMPLE
 words.txt list contains:
 
 - cat
