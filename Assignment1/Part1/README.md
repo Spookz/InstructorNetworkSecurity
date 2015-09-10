@@ -18,7 +18,9 @@ words.txt list contains:
 - zebra
 
 1\. Create subdirectories c,d, and z.
+
 2\. Create the file sortedwords.txt in each subdirectory.
+
 3\. Concatenate each word that begins with the letter of the subdirectory into each sortedwords.txt file. Each word shall be seperated by a new line character.
 sortedwords.txt file in the c subdirectory will contain: 
 
