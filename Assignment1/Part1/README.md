@@ -1,4 +1,4 @@
-# PART 1 - Sort Words
+# PART 1 - SORT WORDS.TXT
 
 ### REQUIREMENT
 - Submission SHALL be a bash command script named part1.sh.
@@ -36,4 +36,4 @@ sortedwords.txt file in the z subdirectory will contain:
 
 - zebra
 
-4. Print long format of part 2 contents.
+4. Print long format of Part1 directory file contents.
