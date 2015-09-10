@@ -15,14 +15,17 @@ words.txt list contains:
 - catch
 - dog
 - zebra
+
 1. Create subdirectories c,d, and z.
 2. Create the file sortedwords.txt in each subdirectory.
 3. Concatenate each word that begins with the letter of the subdirectory into each sortedwords.txt file. Each word shall be seperated by a new line character.
 sortedwords.txt file in the c subdirectory will contain: 
+
 - cat
 - catch
 sortedwords.txt file in d subdirectory will contain: 
 - dog
 sortedwords.txt file in the z subdirectory will contain:
 - zebra
+
 4. Print long format of Part1 directory file contents.
