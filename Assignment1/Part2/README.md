@@ -4,10 +4,22 @@
 Part 1 Completion
 
 ### REQUIREMENT
-Create a bash script that undoes Part1 in a modified way that is reverse order. Words beginning with z will be at the beggining of words.txt and words that begin with a will be at the end.
+- Submission SHALL be a back command script named part2.sh
 
-1. Copy all subdirectories from Part1 directory into the Part2 directory. Make sure not to copy over words.txt and README.md.
+- Script SHALL copy letter subdirectories and contents from Part1 directory to Part2 directory 
 
-2. Recreate words.txt by iterating the letter subdirectories, this time from z to a. Take word contents of each sortedwords.txt in each subdirectory and concatenate them into words.txt in Part2 directory.
+- Script SHALL iterate letter subdirectories starting with z ending with a
 
-3. Remove all letter subdirectories once the words.txt is populated with all the sortedwords.txt contents.
+- Script SHALL create a file reversewords.txt in Part2 directory
+
+- Script SHALL copy all word contents of sortedwords.txt in each letter subdirectory to reversewords.txt file
+
+- Script SHALL remove all letter subdirectories in Part2 directory
+
+### EXAMPLE
+After execution part2.sh reversedwords.txt will list words in this order:
+
+- zebra
+- dog
+- catch
+- cat

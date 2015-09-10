@@ -1,7 +1,13 @@
 # PART 1 - Sort Words
 
 ### REQUIREMENT
-Submission of a bash script that will open words.txt and for every first letter in each word(not case sensitive) concatenate the corresponding word within the sortedwords.txt file in the subdirectory that begins with that letter.
+- Submission SHALL be a bash command script named part1.sh.
+
+- Script SHALL open words.txt and for every first letter in each word (not case sensitive) concatenate the corresponding word within the sortedwords.txt file in the subdirectory that begins with that letter.
+
+- Script SHALL remove words.txt from Part1 directory.
+
+- Script SHALL list files contents in long format of Part1 directory.
 
 ### EXAMPLE
 words.txt list contains:
@@ -11,11 +17,11 @@ words.txt list contains:
 - dog
 - zebra
 
-Create subdirectories c,d, and z.
+1. Create subdirectories c,d, and z.
 
-Create the file sortedwords.txt in each subdirectory.
+2. Create the file sortedwords.txt in each subdirectory.
 
-Concatenate each word that begins with the letter of the subdirectory into each sortedwords.txt file. Each word shall be seperated by a new line character.
+3. Concatenate each word that begins with the letter of the subdirectory into each sortedwords.txt file. Each word shall be seperated by a new line character.
 
 sortedwords.txt file in the c subdirectory will contain: 
 
@@ -29,3 +35,5 @@ sortedwords.txt file in d subdirectory will contain:
 sortedwords.txt file in the z subdirectory will contain:
 
 - zebra
+
+4. Print long format of part 2 contents.
