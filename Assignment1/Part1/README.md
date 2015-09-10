@@ -1,6 +1,6 @@
 # PART 1 - SORT WORDS.TXT
 
-### REQUIREMENT
+### REQUIREMENTS
 - Submission SHALL be a bash command script named part1.sh.
 
 - Script SHALL open words.txt and for every first letter in each word (not case sensitive) concatenate the corresponding word within the sortedwords.txt file in the subdirectory that begins with that letter.
