@@ -4,9 +4,13 @@
 part1.sh
 
 ### REQUIREMENTS (40 pts)
+
 - Submission SHALL be a bash command script named part1.sh.
+
 - Script SHALL open words.txt and for every first letter in each word (not case sensitive) concatenate the corresponding word within the sortedwords.txt file in the subdirectory that begins with that letter
+
 - Script SHALL remove words.txt from Part1 directory
+
 - Script SHALL list files contents in long format of Part1 directory
 
 ### EXAMPLE
